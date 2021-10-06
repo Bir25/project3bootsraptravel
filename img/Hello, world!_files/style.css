@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200;300;400;500;600;700;800&display=swap");
+body {
+  font-family: 'Gemunu Libre', sans-serif;
+}
+
+.container {
+  max-width: 1270px;
+}
+
+.header {
+  background: skyblue;
+}
+
+.header h1 {
+  font-weight: bold;
+  font-size: 55px;
+}
+
+.search {
+  height: 40px;
+  width: 200px;
+  padding-left: 20%;
+  border-radius: 5px;
+  border: 2px solid skyblue;
+  padding-right: 0;
+}
+
+.btn {
+  height: 36.5px;
+  background: blue;
+}
+/*# sourceMappingURL=style.css.map */
